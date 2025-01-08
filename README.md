@@ -9,7 +9,7 @@
 </div>
 
  <div id="badges">
-   <a href="https://www.linkedin.com/in/muammarshahrear/">
+   <a href="https:git//www.linkedin.com/in/muammarshahrear/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    <a href="https://sites.google.com/view/muammar-shahrear/page">
@@ -30,7 +30,7 @@ Nowadays, the world of marketing, sales and business has changed drastically bas
 
 Over the past few years, I've been actively involved in volunteering to inspire and support youth in the fields of research, business development, and sportsmanship. I thrive in collaborative environments and am deeply motivated to lead teams towards achieving success.
 
-I'm currently in my final semester of post-graduation in Information Technology at IIT, Jahangirnagar University.
+I'm currently in my final semester of post-graduation in Information Technology at IIT, Jahangirnagar University. Have a nice day.
 
 ## Experience
 
@@ -79,7 +79,7 @@ For more details about my experience, skills, and projects, feel free to downloa
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrearmsf&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahrearMSf&" alt="GitHub Streak" width="45%" />
+    <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahrearMSf)](https://git.io/streak-stats)" alt="GitHub Streak" width="45%" />
 </div>
 
 ---
