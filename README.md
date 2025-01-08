@@ -77,9 +77,14 @@ For more details about my experience, skills, and projects, feel free to downloa
 
 ### My Top Languages and GitHub Streak
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrearmsf&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
-    <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahrearmsf)](https://git.io/streak-stats)" alt="GitHub Streak" width="45%" />
+<div style="display: flex; justify-content: space-around; align-items: center; width: '100%';">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrearmsf&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahrearMSf)](https://git.io/streak-stats)" alt="GitHub Streak" width="45%" />
+
+
+
+
+
 </div>
 
 ---
