@@ -15,7 +15,9 @@
    <a href="https://sites.google.com/view/muammar-shahrear/page">
      <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio Badge"/>
    </a>
-
+  <a href="https://streak-stats.demolab.com/?user=ShahrearMSf">
+     <img src="https://img.shields.io/badge/Github_Streak_Stats-%230077B5.svg?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio Badge"/>
+   </a>
 
    <img  align="right" src="https://komarev.com/ghpvc/?username=shahrearmsf&label=Profile%20views&color=green&style=flat" alt="shahrearmsf" />
 
@@ -84,7 +86,7 @@ For more details about my experience, skills, and projects, feel free to downloa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrearMSf&layout=compact&theme=light&hide_border=true&title_color=000000&text_color=000000&bg_color=FFFFFF" alt="Top Languages" style="max-width: 100%;">
 </a>
 
-
+![Streak Stats](https://streak-stats.demolab.com/?user=ShahrearMSf)
 
 
 ---
