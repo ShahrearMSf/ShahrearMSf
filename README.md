@@ -86,8 +86,6 @@ For more details about my experience, skills, and projects, feel free to downloa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrearMSf&layout=compact&theme=light&hide_border=true&title_color=000000&text_color=000000&bg_color=FFFFFF" alt="Top Languages" style="max-width: 100%;">
 </a>
 
-![Streak Stats](https://streak-stats.demolab.com/?user=ShahrearMSf)
-
 
 ---
 
