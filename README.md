@@ -78,25 +78,17 @@ For more details about my experience, skills, and projects, feel free to downloa
 ### My GitHub Streak and Top Languages 
 
 
-<div style="display: flex; align-items: center;">
-
- <a href="https://github.com/ShahrearMSf">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+  <a href="https://github.com/ShahrearMSf">
     <img src="https://github-readme-stats.vercel.app/api?username=ShahrearMSf&theme=light&hide_border=true&show_icons=true&title_color=000000&icon_color=008000&text_color=000000&bg_color=FFFFFF" 
-         alt="ShahrearMSf's GitHub stats" style="max-width: '100%';">
+         alt="ShahrearMSf's GitHub stats" style="max-width: 49%;">
   </a>
-
-
-
   <a href="https://github.com/ShahrearMSf">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrearMSf&layout=compact&theme=light&hide_border=true&title_color=000000&text_color=000000&bg_color=FFFFFF&card_width=500" 
-         alt="Top Languages" style="max-width: '100%';">
+         alt="Top Languages" style="max-width: 49%;">
   </a>
- 
-
- 
- 
-  
 </div>
+
 
 
 ---
