@@ -75,7 +75,7 @@ Bachelor of Sciences in Software Engineering
 *July 2014 — June 2016*  
 Higher Secondery Education in Sciences  
 
-## Publication
+## Publications
 
 ### Secure and efficient drug supply chain management system: Blockchain... at [Cyber Security and Applications](https://doi.org/10.1016/j.csa.2025.100103/)
 *June 02, 2025*  
