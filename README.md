@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Muammar Shahrear 👋</h1>
 
-<h3 align="center"> Blockchain Researcher and QA professional with front-end skills and project management insight - from Dhaka, Bangladesh 🇧🇩 </h3>
+<h3 align="center"> Blockchain Researcher and QA professional with front-end skills and project management insight - from Hesse, Germany  🇩🇪, with roots in Bangladesh 🇧🇩 </h3>
 <br/>
 <div align="center">
 
