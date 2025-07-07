@@ -83,7 +83,7 @@ Higher Secondery Education in Sciences
 ###  Secure Health Record Management System with Blockchain & Local Storage Integration at Springer Nature
 *August 15, 2025*  (Waiting for Publication)
 
-### Toward Distributed Security Based Healthcare Systemat at [Springer Nature](https://doi.org/10.1007/978-981-97-1923-5_34)
+### Toward Distributed (Blockchain) Security Based Healthcare System at [Springer Nature](https://doi.org/10.1007/978-981-97-1923-5_34)
 *June 14, 2024*  
 
 
