@@ -80,8 +80,8 @@ Higher Secondery Education in Sciences
 ### Secure and efficient drug supply chain management system: Blockchain... at [Cyber Security and Applications](https://doi.org/10.1016/j.csa.2025.100103/)
 *June 02, 2025*  
 
-###  Secure Health Record Management System with Blockchain & Local Storage Integration at Springer Nature
-*August 15, 2025*  (Waiting for Publication)
+###  Secure Health Record Management System with Blockchain & Local Storage Integration at  [Springer Nature](https://link.springer.com/chapter/10.1007/978-981-95-6013-4_10)
+*April 01, 2025*  
 
 ### Toward Distributed (Blockchain) Security Based Healthcare System at [Springer Nature](https://doi.org/10.1007/978-981-97-1923-5_34)
 *June 14, 2024*  
