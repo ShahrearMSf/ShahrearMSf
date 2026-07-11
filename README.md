@@ -81,10 +81,13 @@ Higher Secondery Education in Sciences
 *June 02, 2025*  
 
 ###  Blockchain and InterPlanetary Framework for Decentralized and Secure Electronic Health Record Management at  [Blockchains](https://doi.org/10.3390/blockchains3040012)
-*October 24, 2025*  
+*September 28, 2025*  
 
 ###  PharmaShield: Optimized Blockchain Framework for Pharma Supply at  [IEEE Xplore](https://doi.org/10.1109/COMPAS67506.2025.11381656)
 *October 24, 2025*  
+
+###  Enhancing Explainable Artificial Intelligence in Healthcare through Blockchain-Enabled Immutable Federated Machine Learning at  [Springer Nature](https://link.springer.com/book/9783032266156)
+*August 25, 2026*  
 
 ###  Secure Health Record Management System with Blockchain & Local Storage Integration at  [Springer Nature](https://link.springer.com/chapter/10.1007/978-981-95-6013-4_10)
 *April 01, 2025*  
