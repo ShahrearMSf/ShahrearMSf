@@ -34,12 +34,19 @@ Over the years, I’ve contributed to multiple organizations across diverse role
 
 ## Experience
 
+### Software Test Engineer at [Startise](https://startise.com/)
+*April 1, 2026 - Present*  
+- Ensured software quality through AI Agent, Playwright automation and Manual testing.  
+- Actively contributed to product release planning.  
+- Developed and executed detailed test plans, identified defects, and collaborated with developers to resolve issues promptly.  
+- Participated in agile ceremonies and improved team productivity.
+
 ### Research Assistant at [CYSECDIGITAL Lab - THM](https://www.thm.de/mnd/rahamatullah-khondoker/cyber-security-and-digitalization/)
-*April 01, 2025 - Present*  
+*April 01, 2025 - March 31, 2026*  
 - Engaged in lightweight blockchain network development.  
 
 ### Junior Software Test Engineer at [Startise](https://startise.com/)
-*January 2, 2024 - Present*  
+*January 1, 2024 - March 31, 2026*  
 - Ensured software quality through manual testing and Playwright automation.  
 - Actively contributed to product release planning.  
 - Developed and executed detailed test plans, identified defects, and collaborated with developers to resolve issues promptly.  
