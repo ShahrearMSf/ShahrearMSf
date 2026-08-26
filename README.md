@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Muammar Shahrear 👋</h1>
 
-<h3 align="center"> QA professional with front-end skills and project management insight and Blockchain Researcher - from Bangladesh 🇧🇩 </h3>
+<h3 align="center"> AI Engineer and Security Researcher - from 🇧🇩 </h3>
 <br/>
 <div align="center">
 
